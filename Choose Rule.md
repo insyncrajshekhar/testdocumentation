@@ -30,7 +30,8 @@ Following the above process, you can choose a pre-congfigured rule successfully
 **_Note:_**
 
 - _Click on the Edit button will only enable you to view the rule configurations._
-- _You can anytime activate a deleted rule from the Choose Rule window_.
+- _You can anytime activate a deleted rule from the Choose Rule window_
+
 
 
 
